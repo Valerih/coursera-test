@@ -1,2 +1,2 @@
 # module2 assignment
-link:
+link: https://valerih.github.io/coursera-test/module2
